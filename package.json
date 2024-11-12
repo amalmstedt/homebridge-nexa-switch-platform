@@ -18,11 +18,11 @@
     "test": "DEBUG=* ./node_modules/homebridge/bin/homebridge -D -U ./.homebridge -P ./"
   },
   "devDependencies": {
-    "homebridge": "^0.4.50"
+    "homebridge": "^1.8.5"
   },
   "engines": {
-    "node": "^12.4.0",
-    "homebridge": "^0.4.50"
+    "node": "^20.10.0",
+    "homebridge": "^1.8.5"
   },
   "os": [
     "linux"
